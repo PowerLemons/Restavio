@@ -16,10 +16,6 @@ p {
 	background-color: #0b264a;
 }
 
-.navbar-logo {
-	height: 68px;
-}
-
 .navbar-icons {
 	color: #e2e2e2;
 }
@@ -66,8 +62,8 @@ p {
 }
 
 .btn-circle.btn-xl { 
-	width: 120px; 
-	height: 120px; 
+	width: 100px; 
+	height: 100px; 
 	border-radius: 85px; 
 	font-size: 12px; 
 	text-align: center;
